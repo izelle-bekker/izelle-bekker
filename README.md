@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @izelle-bekker
+- 👀 I’m interested in getting to build relationships with developers looking to make their next career move
+- 🌱 I’m currently learning full-stack development, with a specific focus on Frontend (JavaScript, React, Angular)
+- 📫 How to reach me  - izelle.bekker@cartrack.com
